@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="30" height="30"> Meekly Discord Bot
 
 Meekly is a high-performance, multipurpose Discord bot designed for security, moderation, and community engagement. Built with `discord.py` and modular architecture, it features advanced Anti-Nuke protection, a customizable Help system, and immersive Voice Management.
@@ -68,3 +69,6 @@ The bot uses modern **Discord Components V2** (`LayoutView`, `Container`, `Secti
 - [YouTube](https://youtube.com/@CodeXDevs)
 - [Support Server](https://discord.gg/codexdev)
 - [Free Hosting](https://nexio.host/)
+=======
+# Purpel-Billi
+>>>>>>> b33615b1abe367b03d3359ad8c59a25abfc53440
