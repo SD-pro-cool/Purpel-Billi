@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="30" height="30"> Meekly Discord Bot
+# <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="30" height="30"> Purpel Billi Discord Bot
 
 Meekly is a high-performance, multipurpose Discord bot designed for security, moderation, and community engagement. Built with `discord.py` and modular architecture, it features advanced Anti-Nuke protection, a customizable Help system, and immersive Voice Management.
 
