@@ -60,15 +60,8 @@ The bot uses modern **Discord Components V2** (`LayoutView`, `Container`, `Secti
 ---
 
 ## 👥 Developers
-- **Not_Op_gamer404_YT** (Main Developer)
-- **ray.dev** (Co-Developer)
+- **SD pro CooL** (Main Developer)
+- **SD pro super** (Co-Developer)
 
----
-
-## 🔗 Support & Links
-- [YouTube](https://youtube.com/@CodeXDevs)
-- [Support Server](https://discord.gg/codexdev)
-- [Free Hosting](https://nexio.host/)
-=======
 # Purpel-Billi
 >>>>>>> b33615b1abe367b03d3359ad8c59a25abfc53440
